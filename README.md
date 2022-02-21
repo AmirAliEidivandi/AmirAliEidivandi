@@ -134,3 +134,37 @@
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
 </p>
+
+----
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://dev.to/amirali6578" target="_blank">
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://medium.com/@amirah648887" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://codepen.io/AmirAli6578" target="_blank">
+      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
+    </a>
+  </div>
+  <div>
+    <a  href="https://www.linkedin.com/in/amirali-eidivandi/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://twitter.com/AmirAliEidivan1" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+  </div>
+</div>
+
+<h3 align="center">Reach me</h3>
+
+<p align="center">
+  <a  href="https://t.me/AmirAli6578" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+</p>
