@@ -162,15 +162,6 @@
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/AmirAli6578" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-</p>
-
-
 
 ----
 
