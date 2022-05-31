@@ -12,9 +12,6 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
-
-- <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
 ---
 
 
