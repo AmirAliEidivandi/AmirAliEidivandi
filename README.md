@@ -1,169 +1,100 @@
-<h1 font-size="30" align="center">Hi there, I'm AmirAli Eidivandi</h1>
-<h3 font-size="20" align="center">A passionate BackEnd developer and a student from Iran.</h3>
-
-
-- 🌱 I’m currently learning **Expressjs**
-
-- 👯 I’m looking to collaborate on **BackEnd**
-
-- 🤝 I’m looking for help with **BackEnd**
-
-- 👨‍💻 All of my projects are available [AmirAliEidivandi](https://github.com/AmirAliEidivandi)
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
----
-
-
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-</p>
-  
-  <h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-</p>
-
-----
-
-<h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/amirali6578" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://medium.com/@amirah648887" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/AmirAli6578" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://www.linkedin.com/in/amirali-eidivandi/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/AmirAliEidivan1" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+AmirAli;Senior+Backend+Developer;System+Architecture+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-----
+<h3 align="center">A passionate Backend Developer from Iran, architecting scalable distributed systems</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmirAliEidivandi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+- 🎯 Specialized in building **scalable microservices** with **NestJS** and **TypeScript**
+- 🚀 Expert in designing distributed systems and cloud-native applications
+- 💾 Deep knowledge in database design and optimization (SQL & NoSQL)
+- 🌱 Currently exploring **Event-Driven Architecture** and **Domain-Driven Design**
+- 💡 Passionate about clean code, SOLID principles, and design patterns
+- 🤝 Open to collaborating on innovative backend projects
+- ⚡ Fun fact: I believe in "**Make it work, make it right, make it fast**"
+
+## 🛠️ Technical Skills
+
+### Backend Development
+<p align="center">
+  <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/></a>
+</p>
+
+### Database & Cache
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typescript&logoColor=white" alt="typeorm"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/></a>
+</p>
+
+### Frontend Skills
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://www.w3.org/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/></a>
+</p>
+
+## 🎯 Featured Projects
+
+### NestJS Microservices Boilerplate
+A production-ready NestJS microservices starter with TypeScript, PostgreSQL, Redis, and Docker
+- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/nest-microservices-boilerplate)
+- 🛠️ Tech: NestJS, TypeScript, PostgreSQL, Redis, Docker
+- ⭐ Features: Microservices architecture, API Gateway, Service Discovery
+
+### Express TypeScript API
+RESTful API with Express.js and TypeScript following best practices
+- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/express-typescript-api)
+- 🛠️ Tech: Express.js, TypeScript, MongoDB, JWT
+- ⭐ Features: Authentication, Authorization, API Documentation
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAliEidivandi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliEidivandi&hide_border=true&layout=compact&theme=tokyonight" align="center" />
+</div>
+
+## 🤝 Let's Connect!
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <a href="https://linkedin.com/in/amirali-eidivandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://twitter.com/AmirAliEidivan1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="mailto:amirali.eidivandi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
+
+---
+<div align="center">
+  <b>Let's build something amazing together! 🚀</b>
+</div>
