@@ -65,14 +65,14 @@
 ## 🎯 Featured Projects
 
 ### NestJS Microservices Boilerplate
-A production-ready NestJS microservices starter with TypeScript, PostgreSQL, Redis, and Docker
-- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/nest-microservices-boilerplate)
+A production-ready NestJS starter with TypeScript, PostgreSQL, Redis, and Docker
+- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/movie/tree/master/backend)
 - 🛠️ Tech: NestJS, TypeScript, PostgreSQL, Redis, Docker
 - ⭐ Features: Microservices architecture, API Gateway, Service Discovery
 
 ### Express TypeScript API
 RESTful API with Express.js and TypeScript following best practices
-- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/express-typescript-api)
+- 🔗 [Repository Link](https://github.com/AmirAliEidivandi/shop_backend)
 - 🛠️ Tech: Express.js, TypeScript, MongoDB, JWT
 - ⭐ Features: Authentication, Authorization, API Documentation
 
